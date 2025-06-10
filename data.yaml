@@ -1,0 +1,6 @@
+train: C:\Coding\Python\GARBAGE CLASSIFICATION 3.v2-gc1.yolov5pytorch\train
+val: C:\Coding\Python\GARBAGE CLASSIFICATION 3.v2-gc1.yolov5pytorch\train
+test: C:\Coding\Python\GARBAGE CLASSIFICATION 3.v2-gc1.yolov5pytorch\test
+
+nc: 6  # Number of classes - VERY IMPORTANT
+names: ['biodegradable', 'cardboard', 'glass', 'metal', 'paper', 'plastic']

@@ -1,0 +1,4 @@
+buka cmd, lalu copy paste kode ini 1-1
+cd C:\<path>\Computer Vision
+my_yolov5_env\Scripts\activate
+python ESPCAMIP.py

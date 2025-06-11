@@ -81,3 +81,5 @@ Anda dapat memantau proses klasifikasi secara interaktif melalui antarmuka web y
 Lakukan pengujian fungsionalitas untuk memastikan setiap komponen perangkat keras dan perangkat lunak berfungsi sesuai perancangan.
 Uji akurasi klasifikasi dengan berbagai skenario pemilahan sampah untuk mengevaluasi keandalan dan akurasi sistem.
 Evaluasi kecepatan respons sistem dan ketepatan pemilahan sampah.
+
+### Link full version: https://drive.google.com/drive/folders/1_6aP6wkIUe4W78gYwEYkotTYuUILi1vs?usp=drive_link
